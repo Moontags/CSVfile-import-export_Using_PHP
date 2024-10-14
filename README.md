@@ -1,4 +1,4 @@
-# CSV Import and Export Handler
+# CSV Import and Export Handler whit PHP
 
 ## Overview
 
@@ -15,13 +15,13 @@ This project is a PHP-based system that handles CSV file import and export opera
 
 Here are some screenshots of the project in action:
 
-### 1. Add New Entry
+### 1. Start selection
 ![Add New Entry](image/step1.png)
 
-### 2. View CSV Data
+### 2. Add New Entry
 ![View CSV Data](image/step2.png)
 
-### 3. Delete an Entry
+### 3. View CSV Data and Delete an Entry
 ![Delete an Entry](image/step3.png)
 
 ### 4. Export CSV Data
